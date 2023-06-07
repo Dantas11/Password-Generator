@@ -4,6 +4,9 @@
 
 This project was to create a webpage with a Password Generator. It creates a password based on the user choices of number of characters and type of characters being number, uppercase, lowercase and special characters.
 
+![Website Page](https://github.com/Dantas11/Password-Generator/blob/main/Assets/images/passwordgeneratorimage.png)
+
+
 ## Installation
 
 N/A
@@ -19,5 +22,6 @@ N/A
 ## License
 
 N/A
+
 
 
