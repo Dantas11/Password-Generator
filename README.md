@@ -10,7 +10,7 @@ N/A
 
 ## Usage
 
-To use this Password Generator please go to the link page 
+To use this website open the link [Project Website Link](https://dantas11.github.io/Password-Generator/)
 
 ## Credits
 
@@ -19,3 +19,5 @@ N/A
 ## License
 
 MIT License 
+
+https://dantas11.github.io/Password-Generator/
