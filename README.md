@@ -18,6 +18,6 @@ N/A
 
 ## License
 
-MIT License 
+N/A
 
 
